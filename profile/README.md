@@ -3,7 +3,7 @@ lab for sleet-ai
 
 ---
 
-![img](https://imgur.com/a/k9WkVVJ)
+![img](https://imgur.com/X8hcmBW.png)
 
 =================
 <br/>
